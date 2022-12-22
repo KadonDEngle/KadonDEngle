@@ -4,5 +4,3 @@ I am constantly looking for something to challenge my brain
 and consistently working on refining my skills as a developer.
 
 I also climb rocks.
-
-I hope you've smiled today :)
